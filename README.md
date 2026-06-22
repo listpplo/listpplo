@@ -231,11 +231,11 @@ I am currently focused on building a complete **industrial machine vision platfo
 
 ## 📊 GitHub Stats
 
-> Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
+> Replace `listpplo` with your actual GitHub username.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=listpplo&show_icons=true&theme=default" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=listpplo&layout=compact&theme=default" height="160" />
 </p>
 
 ---
